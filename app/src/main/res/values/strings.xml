@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Input Constraints</string>
+    <string name="HeadingName">Input Constraints</string>
+    <string name="UpperCase">Uppercase Alphabets (A-Z)</string>
+    <string name="LowerCase">Lowercase alphabets(a-z)</string>
+    <string name="Digits">Digits (0-9)</string>
+    <string name="MOperations">Mathematical operations (+,-,/,*,%)</string>
+    <string name="Symbols">Other symbols (#,$,etc.)</string>
+    <string name="takeInput">TAKE INPUT</string>
+    <string name="SendButton">SEND</string>
+    <string name="HintText">Enter Text</string>
+</resources>
